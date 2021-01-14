@@ -5322,11 +5322,11 @@
 								"$ref": "AAAAAAFF+qBtyKM79qY="
 							},
 							"font": "Arial;13;0",
-							"left": 1440,
+							"left": 1424,
 							"top": 224,
 							"width": 60,
 							"height": 25,
-							"text": "*"
+							"text": "1..*"
 						},
 						{
 							"_type": "UMLTextView",
