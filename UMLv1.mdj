@@ -232,7 +232,7 @@
 											"top": 236,
 											"width": 183,
 											"height": 13,
-											"text": "+Attori",
+											"text": "+Attori: String",
 											"horizontalAlignment": 0
 										},
 										{
@@ -250,7 +250,7 @@
 											"top": 251,
 											"width": 183,
 											"height": 13,
-											"text": "+Genere",
+											"text": "+Generi: String",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2244,7 +2244,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2zaPD6ODBvmI="
 							},
-							"name": "Nominativo_ String"
+							"name": "Nominativo_ String",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2418,7 +2419,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2zaQReOEVKKs="
 							},
-							"name": "Attori"
+							"name": "Attori",
+							"type": "String"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2426,7 +2428,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2zaQReOEVKKs="
 							},
-							"name": "Genere"
+							"name": "Generi",
+							"type": "String"
 						}
 					]
 				},
@@ -2491,7 +2494,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2zaSEt+JASFs="
 							},
-							"name": "Paese_di_origine"
+							"name": "Paese_di_origine",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2499,7 +2503,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2zaSEt+JASFs="
 							},
-							"name": "Data_nascita"
+							"name": "Data_nascita",
+							"type": ""
 						}
 					]
 				},
