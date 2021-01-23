@@ -1348,7 +1348,7 @@
 											"font": "Arial;13;1",
 											"left": 533,
 											"top": 527,
-											"width": 137.63623046875,
+											"width": 140.537109375,
 											"height": 13,
 											"text": "Biglietti"
 										},
@@ -1386,7 +1386,7 @@
 									"font": "Arial;13;0",
 									"left": 528,
 									"top": 520,
-									"width": 147.63623046875,
+									"width": 150.537109375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF2zaTN3uNmFCU="
@@ -1443,7 +1443,7 @@
 											"font": "Arial;13;0",
 											"left": 533,
 											"top": 552,
-											"width": 137.63623046875,
+											"width": 140.537109375,
 											"height": 13,
 											"text": "+Id_biglietto: Int",
 											"horizontalAlignment": 0
@@ -1480,7 +1480,7 @@
 											"font": "Arial;13;0",
 											"left": 533,
 											"top": 567,
-											"width": 137.63623046875,
+											"width": 140.537109375,
 											"height": 13,
 											"text": "+Sconto: Int",
 											"horizontalAlignment": 0
@@ -1498,9 +1498,9 @@
 											"font": "Arial;13;0",
 											"left": 533,
 											"top": 582,
-											"width": 137.63623046875,
+											"width": 140.537109375,
 											"height": 13,
-											"text": "+PrezzoFinale: Decimal",
+											"text": "+Prezzo_finale: Decimal",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1508,7 +1508,7 @@
 									"font": "Arial;13;0",
 									"left": 528,
 									"top": 545,
-									"width": 147.63623046875,
+									"width": 150.537109375,
 									"height": 55
 								},
 								{
@@ -1524,7 +1524,7 @@
 									"font": "Arial;13;0",
 									"left": 528,
 									"top": 600,
-									"width": 147.63623046875,
+									"width": 150.537109375,
 									"height": 10
 								},
 								{
@@ -1567,7 +1567,7 @@
 							"containerChangeable": true,
 							"left": 528,
 							"top": 520,
-							"width": 147.63623046875,
+							"width": 150.537109375,
 							"height": 118,
 							"nameCompartment": {
 								"$ref": "AAAAAAF2zaTN3uNllyk="
@@ -2714,7 +2714,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 765,
+									"left": 767,
 									"top": 557,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2735,7 +2735,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 765,
+									"left": 767,
 									"top": 542,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2756,7 +2756,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 765,
+									"left": 767,
 									"top": 587,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2777,7 +2777,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 701,
+									"left": 704,
 									"top": 557,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -2798,7 +2798,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 704,
+									"left": 707,
 									"top": 543,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -2819,7 +2819,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 697,
+									"left": 700,
 									"top": 584,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -2928,7 +2928,7 @@
 								"$ref": "AAAAAAF2zaTN3uNkDcU="
 							},
 							"lineStyle": 1,
-							"points": "676:578;855:578",
+							"points": "679:578;855:578",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF2zaaAz+XZRDs="
@@ -6949,7 +6949,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF2zaTN3uNiS3o="
 							},
-							"name": "PrezzoFinale",
+							"name": "Prezzo_finale",
 							"type": "Decimal"
 						}
 					]

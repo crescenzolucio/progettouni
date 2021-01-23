@@ -677,7 +677,7 @@
 											"font": "Arial;13;1",
 											"left": 533,
 											"top": 463,
-											"width": 137.63623046875,
+											"width": 140.537109375,
 											"height": 13,
 											"text": "Biglietti"
 										},
@@ -715,7 +715,7 @@
 									"font": "Arial;13;0",
 									"left": 528,
 									"top": 456,
-									"width": 147.63623046875,
+									"width": 150.537109375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF2zaTN3uNmFCU="
@@ -810,7 +810,7 @@
 											"font": "Arial;13;0",
 											"left": 533,
 											"top": 488,
-											"width": 137.63623046875,
+											"width": 140.537109375,
 											"height": 13,
 											"text": "+Sconto: Smallint",
 											"horizontalAlignment": 0
@@ -828,9 +828,9 @@
 											"font": "Arial;13;0",
 											"left": 533,
 											"top": 503,
-											"width": 137.63623046875,
+											"width": 140.537109375,
 											"height": 13,
-											"text": "+PrezzoFinale: Decimal",
+											"text": "+Prezzo_finale: Decimal",
 											"horizontalAlignment": 0
 										}
 									],
@@ -838,7 +838,7 @@
 									"font": "Arial;13;0",
 									"left": 528,
 									"top": 481,
-									"width": 147.63623046875,
+									"width": 150.537109375,
 									"height": 40
 								},
 								{
@@ -854,7 +854,7 @@
 									"font": "Arial;13;0",
 									"left": 528,
 									"top": 521,
-									"width": 147.63623046875,
+									"width": 150.537109375,
 									"height": 10
 								},
 								{
@@ -897,7 +897,7 @@
 							"containerChangeable": true,
 							"left": 528,
 							"top": 456,
-							"width": 147.63623046875,
+							"width": 150.537109375,
 							"height": 118,
 							"nameCompartment": {
 								"$ref": "AAAAAAF2zaTN3uNllyk="
@@ -1757,7 +1757,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 765,
+									"left": 767,
 									"top": 493,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1778,7 +1778,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 765,
+									"left": 767,
 									"top": 478,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1799,7 +1799,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 765,
+									"left": 767,
 									"top": 523,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -1820,7 +1820,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 701,
+									"left": 704,
 									"top": 493,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -1841,7 +1841,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 704,
+									"left": 707,
 									"top": 479,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -1862,7 +1862,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 697,
+									"left": 700,
 									"top": 520,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -1971,7 +1971,7 @@
 								"$ref": "AAAAAAF2zaTN3uNkDcU="
 							},
 							"lineStyle": 1,
-							"points": "676:514;855:514",
+							"points": "679:514;855:514",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF2zaaAz+XZRDs="
@@ -2680,7 +2680,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF2zaTN3uNiS3o="
 							},
-							"name": "PrezzoFinale",
+							"name": "Prezzo_finale",
 							"type": "Decimal"
 						}
 					]
